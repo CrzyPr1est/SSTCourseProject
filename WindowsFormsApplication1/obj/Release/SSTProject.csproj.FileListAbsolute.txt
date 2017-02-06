@@ -1,0 +1,16 @@
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.exe.config
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.pdb
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\ja\SSTProject.resources.dll
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Form1.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Form2.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Form3.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Form4.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.login.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Main.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Properties.Resources.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.login.ja.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.csproj.GenerateResource.Cache
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\ja\SSTProject.resources.dll
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.pdb

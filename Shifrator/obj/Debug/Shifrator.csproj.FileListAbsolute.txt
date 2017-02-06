@@ -1,0 +1,6 @@
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\bin\Debug\Shifrator.exe.config
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\bin\Debug\Shifrator.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\bin\Debug\Shifrator.pdb
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\obj\Debug\Shifrator.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\obj\Debug\Shifrator.pdb
+C:\Users\CrazyPriest\Dropbox\SSTProject\Shifrator\obj\Debug\Shifrator.csprojResolveAssemblyReference.cache

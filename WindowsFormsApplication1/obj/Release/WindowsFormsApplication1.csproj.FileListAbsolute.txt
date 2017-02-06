@@ -1,0 +1,44 @@
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.dll
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\CrazyPriest\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ja\WindowsFormsApplication1.resources.dll
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.login.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.login.ja.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ja\WindowsFormsApplication1.resources.dll
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Main.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\CrazyPriest\Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.login.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Main.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.login.ja.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.exe.config
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\SSTProject.pdb
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\bin\Release\ja\SSTProject.resources.dll
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.Properties.Resources.resources
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\ja\SSTProject.resources.dll
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.exe
+C:\Users\CrazyPriest\Dropbox\SSTProject\WindowsFormsApplication1\obj\Release\SSTProject.pdb
