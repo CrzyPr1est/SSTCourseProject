@@ -22,6 +22,7 @@ namespace SSTProject
             mysqlCSB.Password = wh.DeShifrovka("lvEMt3PRl7ied9cWUFGBOg==", "HESOYAM");
             string connstr = mysqlCSB.ConnectionString;
             return connstr;
+            //sdsdsd
         }
         
     }
