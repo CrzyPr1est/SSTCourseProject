@@ -12,3 +12,6 @@ Training project on .NET; using WinForms, MySQL Connector.
 * Страница редактирования данных пользователя (прим. - пользователи категории "Администратор" могут редактировать данные всех пользователей).
 * Система просмотра информации о мероприятиях, в том числе и подробной.
 * Система редактирования мероприятий. 
+
+Скриншоты: 
+<a href="https://gyazo.com/6b01115dc16bdc049d42aba6dfd699db"><img src="https://i.gyazo.com/6b01115dc16bdc049d42aba6dfd699db.png" alt="https://gyazo.com/6b01115dc16bdc049d42aba6dfd699db" width="417"/></a>
